@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/3rd sem java.iml" filepath="$PROJECT_DIR$/3rd sem java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart_parking.iml" filepath="$PROJECT_DIR$/smart_parking.iml" />
     </modules>
   </component>
 </project>
